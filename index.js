@@ -6,6 +6,7 @@ module.exports = function (variants) {
       '.object-fill': { objectFit: 'fill' },
       '.object-none': { objectFit: 'none' },
       '.object-scale': { objectFit: 'scale-down' },
+      '.object-scale-down': { objectFit: 'scale-down' },
     }, variants)
   }
 }
