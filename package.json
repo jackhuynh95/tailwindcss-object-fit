@@ -1,6 +1,6 @@
 {
-  "name": "tailwindcss-object-fit",
-  "version": "1.0.1",
+  "name": "@tailwindcss/object-fit",
+  "version": "1.0.0",
   "description": "Generate utility classes for object-fit properties",
   "main": "index.js",
   "repository": {
