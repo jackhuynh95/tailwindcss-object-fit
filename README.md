@@ -7,11 +7,7 @@ This plugin generates classes for object-fit image properties.
 Pull it in through npm or yarn:
 
 ```bash
-npm install tailwindcss-object-fit
-```
-
-```bash
-yarn add tailwindcss-object-fit
+npm install @jackhuynh1995/tailwindcss-object-fit
 ```
 
 ## Usage
